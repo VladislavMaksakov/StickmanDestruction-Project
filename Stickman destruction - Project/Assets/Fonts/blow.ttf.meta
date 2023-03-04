@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3f0d8a14d57066747af1e5f9380e2f4e
+timeCreated: 1509128718
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Blow
+  fontNames:
+  - Blow
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

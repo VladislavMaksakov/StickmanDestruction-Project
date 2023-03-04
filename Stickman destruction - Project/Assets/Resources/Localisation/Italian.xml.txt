@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+
+<string name="Play">Giocare</string>
+
+<string name="Settings">Impostazioni</string>
+<string name="Music">Musica</string>
+<string name="Delete all progress">Elimina tutti i progressi</string>
+
+<string name="Are you sure?">
+ Sei sicuro?
+Tutti i progressi di gioco andranno persi</string>
+
+
+<string name="Victory">Vittoria</string>
+
+<string name="Stage">Palcoscenico</string>
+<string name="Enemy">Nemico</string>
+
+
+<string name="Exit">Uscita</string>
+<string name="Loading...">Caricamento in corso...</string>
+<string name="Press the screen to start">Premere lo schermo per iniziare</string>
+<string name="Paused">In pausa</string>
+<string name="Restart">Ricomincia</string>
+<string name="Re">Ricomincia</string>
+<string name="Continue">Continua</string>
+<string name="Game Over">Gioco finito</string>
+<string name="You Won!">Hai vinto!</string>
+<string name="Are you sure you want to exit the game?">Sei sicuro di voler uscire dal gioco?</string>
+<string name="Yes">Si</string>
+<string name="No">No</string>
+<string name="Coming Soon">Prossimamente</string>
+
+<string name="Do you want to get 100 gold after watching a video?">Vuoi ottenere 100 monete d'oro dopo aver visto un video?</string>
+
+
+<string name="Next">Il prossimo</string>
+<string name="Prev">Prec</string>
+<string name="Transport">Trasporto</string>
+<string name="Character">Carattere</string>
+<string name="Objects">Oggetti</string>
+<string name="START">INIZIO</string>
+<string name="PUSH">SPINGERE</string>
+<string name="Back">Indietro</string>
+<string name="Score:">Punto: </string>
+<string name="Score: 0">Punto: 0</string>
+
+<string name="Transport select">Selezionare il trasporto</string>
+<string name="None">Nessuna</string>
+<string name="Old Car">Vecchia macchina</string>
+<string name="Sportcar">Auto sportiva</string>
+<string name="kickScooter">Monopattino</string>
+<string name="Bed">Letto</string>
+<string name="Skate">Skateboard</string>
+<string name="Big Skate">Grande Skateboard</string>
+<string name="Scooter">Lo Scooter</string>
+<string name="Сabriolet">Сabriolet</string>
+<string name="Trunk">Tronco</string>
+<string name="Cart">Carrello</string>
+
+
+<string name="Object Select">Selezione oggetto</string>
+<string name="Brick Wall">Muro di mattoni</string>
+<string name="Mid Ramp">Mezzo Rampa</string>
+<string name="Big Ramp">Grande Rampa</string>
+<string name="Wall">Parete</string>
+<string name="Small Ramp">Piccola Rampa</string>
+<string name="Speed Up">Accelerare</string>
+<string name="TnT">TNT</string>
+<string name="TnT 3">TNT 3</string>
+<string name="TnT 6">TNT 6</string>
+
+<string name="Character Select">Carattere Selezionare</string>
+<string name="Default">Predefinito</string>
+
+<string name="Nice Jump">Bel salto</string>
+
+
+<string name="Do you wanna buy">Vuoi comprare</string>
+<string name="for">per</string>
+<string name="gold">oro</string>
+
+
+<string name="Level Select">Selezione del livello</string>
+<string name="Level 1">Livello 1</string>
+<string name="Level 2">Livello 2</string>
+<string name="Level 3">Livello 3</string>
+<string name="Level 4">Livello 4</string>
+<string name="Level 5">Livello 5</string>
+<string name="Level 6">Livello 6</string>
+<string name="Level 7">Livello 7</string>
+
+
+<string name="Do you wanna open">Vuoi aprire</string>
+
+
+<string name="Gold earned:">Oro guadagnato:</string>
+<string name="Damage taken:">Danni subiti:</string>
+<string name="Head Punches:">Punzoni a testa:</string>
+<string name="Broken Bones:">Ossa rotte:</string>
+<string name="Broken Transport:">Trasporto interrotto:</string>
+
+
+<string name="Get ">Ottenere </string>
+<string name=" score in one Game."> punteggio in una partita.</string>
+<string name="Achievement completed">Realizzazione completata</string>
+<string name="HighScore">Punteggio alto: </string>
+
+<string name="Press and hold">tieni premuto</string>
+<string name="Menu">Menu</string>
+<string name="Replays">Replay</string>
+
+</document>

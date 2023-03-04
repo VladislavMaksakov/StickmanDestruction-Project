@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+
+<string name="Play">Play</string>
+<string name="Player">Player</string>
+
+
+<string name="Settings">Settings</string>
+<string name="Music">Music</string>
+<string name="Delete all progress">Delete all progress</string>
+
+<string name="Are you sure?">
+All Game Progress will be lost, Are you sure ? </string>
+
+<string name="Victory">Victory</string>
+
+<string name="Stage">Stage</string>
+<string name="Enemy">Enemy</string>
+
+<string name="Exit">Exit</string>
+<string name="Loading...">Loading...</string>
+<string name="Press the screen to start">Press the screen to start</string>
+<string name="Paused">Pause</string>
+<string name="Restart">Restart</string>
+<string name="Re">Restart</string>
+<string name="Continue">Continue</string>
+<string name="Game Over">You lose!</string>
+<string name="You Won!">You Won!</string>
+
+
+
+<string name="Are you sure you want to exit the game?">Are you sure you want to exit the game?</string>
+
+<string name="Do you want to get 100 gold after watching a video?">Do you want to get 100 gold after watching a video?</string>
+
+<string name="Yes">Yes</string>
+<string name="No">No</string>
+
+
+<string name="Next">Next</string>
+<string name="Prev">Prev</string>
+<string name="Transport">Transport</string>
+<string name="Character">Character</string>
+<string name="Objects">Objects</string>
+<string name="START">START</string>
+<string name="PUSH">PUSH</string>
+<string name="Back">Back</string>
+<string name="Score:">Score: </string>
+<string name="Score: 0">Score: 0</string>
+<string name="Coming Soon">Coming Soon</string>
+
+
+<string name="Transport select">Transport select</string>
+<string name="None">None</string>
+<string name="Old Car">Old Car</string>
+<string name="Sportcar">Sports Car</string>
+<string name="kickScooter">kickScooter</string>
+<string name="Bed">Bed</string>
+<string name="Skate">Skate</string>
+<string name="Big Skate">Big Skate</string>
+<string name="Scooter">Scooter</string>
+<string name="Сabriolet">Сabriolet</string>
+<string name="Trunk">Trunk</string>
+<string name="Cart">Cart</string>
+
+
+<string name="Object Select">Object Select</string>
+<string name="Brick Wall">Brick Wall</string>
+<string name="Mid Ramp">Mid Ramp</string>
+<string name="Big Ramp">Big Ramp</string>
+<string name="Wall">Wall</string>
+<string name="Small Ramp">Small Ramp</string>
+<string name="Speed Up">Speed Up</string>
+<string name="TnT">TNT</string>
+<string name="TnT 3">TNT 3</string>
+<string name="TnT 6">TNT 6</string>
+
+<string name="Character Select">Character Select</string>
+<string name="Default">Default</string>
+
+<string name="Nice Jump">Nice Jump</string>
+
+
+
+
+<string name="Level Select">Level Select</string>
+<string name="Level 1">Level 1</string>
+<string name="Level 2">Level 2</string>
+<string name="Level 3">Level 3</string>
+<string name="Level 4">Level 4</string>
+<string name="Level 5">Level 5</string>
+<string name="Level 6">Level 6</string>
+<string name="Level 7">Level 7</string>
+
+
+<string name="Do you wanna buy">Do you wanna buy</string>
+<string name="for">for</string>
+<string name="gold">gold</string>
+<string name="Do you wanna open">Do you wanna open</string>
+
+
+<string name="Gold earned:">Gold earned:</string>
+<string name="Damage taken:">Damage taken:</string>
+<string name="Head Punches:">Head Punches:</string>
+<string name="Broken Bones:">Broken Bones:</string>
+<string name="Broken Transport:">Broken Transport:</string>
+
+
+<string name="Get ">To get </string>
+<string name=" score in one Game."> score in one Game.</string>
+<string name="Achievement completed">Achievement completed</string>
+<string name="HighScore">HighScore: </string>
+
+<string name="Press and hold">Press and hold</string>
+<string name="Menu">Menu</string>
+<string name="Replays">Replays</string>
+
+</document>

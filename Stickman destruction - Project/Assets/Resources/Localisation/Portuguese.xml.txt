@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+
+<string name="Play">Toque</string>
+
+<string name="Settings">Configurações</string>
+<string name="Music">Música</string>
+<string name="Delete all progress">Apague todo o progresso</string>
+
+<string name="Are you sure?"
+ Você tem certeza?
+Todo o progresso do jogo será perdido</string>
+
+
+<string name="Victory">Vitória</string>
+
+<string name="Stage">Etapa</string>
+<string name="Enemy">Inimigo</string>
+
+
+<string name="Exit">Saída</string>
+<string name="Loading...">Carregando...</string>
+<string name="Press the screen to start">Pressione a tela para começar</string>
+<string name="Paused">Pausado</string>
+<string name="Restart">Reiniciar</string>
+<string name="Re">Reiniciar</string>
+<string name="Continue">Continuar</string>
+<string name="Game Over">Fim de jogo!</string>
+<string name="You Won!">Você ganhou!</string>
+<string name="Are you sure you want to exit the game?">Tem certeza de que deseja sair do jogo?</string>
+<string name="Yes">Sim</string>
+<string name="No">Não</string>
+<string name="Coming Soon">Em breve</string>
+
+<string name="Do you want to get 100 gold after watching a video?">Você quer obter 100 de ouro depois de assistir um vídeo?</string>
+
+
+<string name="Next">Próximo</string>
+<string name="Prev">Anterior</string>
+<string name="Transport">Transporte</string>
+<string name="Character">Carattere</string>
+<string name="Objects">Personagem</string>
+<string name="START">COMEÇAR</string>
+<string name="PUSH">EMPURRAR</string>
+<string name="Back">Costas</string>
+<string name="Score:">Ponto: </string>
+<string name="Score: 0">Ponto: 0</string>
+
+<string name="Transport select">Seleção de transporte</string>
+<string name="None">Nenhum</string>
+<string name="Old Car">Carro velho</string>
+<string name="Sportcar">Carro esportivo</string>
+<string name="kickScooter">Patinete</string>
+<string name="Bed">Cama</string>
+<string name="Skate">Skate</string>
+<string name="Big Skate">Skate Grande</string>
+<string name="Scooter">Lambreta</string>
+<string name="Сabriolet">Conversível</string>
+<string name="Trunk">Tronco</string>
+<string name="Cart">Carrinho</string>
+
+
+<string name="Object Select">Seleção de objeto</string>
+<string name="Brick Wall">Parede de tijolos</string>
+<string name="Mid Ramp">Rampa média</string>
+<string name="Big Ramp">Grande rampa</string>
+<string name="Wall">Parede</string>
+<string name="Small Ramp">Pequena rampa</string>
+<string name="Speed Up">Acelerar</string>
+<string name="TnT">TNT</string>
+<string name="TnT 3">TNT 3</string>
+<string name="TnT 6">TNT 6</string>
+
+<string name="Character Select">Selecione o caractere</string>
+<string name="Default">Padrão</string>
+
+<string name="Nice Jump">Bom salto</string>
+
+
+<string name="Do you wanna buy">Você quer comprar?</string>
+<string name="for">para</string>
+<string name="gold">ouro</string>
+
+
+<string name="Level Select">Seleção de nível</string>
+<string name="Level 1">Nível 1</string>
+<string name="Level 2">Nível 2</string>
+<string name="Level 3">Nível 3</string>
+<string name="Level 4">Nível 4</string>
+<string name="Level 5">Nível 5</string>
+<string name="Level 6">Nível 6</string>
+<string name="Level 7">Nível 7</string>
+
+<string name="Do you wanna open">Você quer abrir?</string>
+
+
+<string name="Gold earned:">Ouro ganho:</string>
+<string name="Damage taken:">Dano recebido:</string>
+<string name="Head Punches:">Punches de cabeça:</string>
+<string name="Broken Bones:">Ossos quebrados:</string>
+<string name="Broken Transport:">Transporte quebrado:</string>
+
+
+<string name="Get ">Obter </string>
+<string name=" score in one Game."> pontuação em um jogo.</string>
+<string name="Achievement completed">Realização completa</string>
+<string name="HighScore">Pontuação máxima: </string>
+
+<string name="Press and hold">pressione e segure</string>
+<string name="Menu">Cardápio</string>
+<string name="Replays">repetições</string>
+
+
+
+</document>

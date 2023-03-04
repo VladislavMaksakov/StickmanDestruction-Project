@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 780a0b809e3c15d47ac49156b1fe7f74
+timeCreated: 1509128718
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Tooney Noodle NF
+  fontNames:
+  - Tooney Noodle NF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 516c79613da87184abb5e4bb41b87736, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
