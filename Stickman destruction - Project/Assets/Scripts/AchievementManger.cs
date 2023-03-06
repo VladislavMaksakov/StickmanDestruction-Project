@@ -8,6 +8,7 @@ public class AchievementManger : MonoBehaviour {
 
 
     public static AchievementManger instance;
+    public GameObject EndAchView;
 
 
     public int score;
@@ -72,7 +73,7 @@ public class AchievementManger : MonoBehaviour {
             PlayerPrefs.SetInt("Achievement", achievementTaskNumber+1);
             achievementText.color = Color.green;
             achievementText.text = Localisation.GetString("Achievement completed");
-           // LoadAchievement();
+            LoadAchievement();
         }
         return goldReward;
     }
@@ -109,6 +110,7 @@ public class AchievementManger : MonoBehaviour {
 
     public void ShowEndResult()
     {
+        EndAchView.SetActive(true);
         int achievementGold=0;
         CalculateScore();
         damageTakenText.text = damageTaken.ToString();

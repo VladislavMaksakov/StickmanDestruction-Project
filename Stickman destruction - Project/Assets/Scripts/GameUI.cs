@@ -763,6 +763,7 @@ public class GameUI : MonoBehaviour
 
     public void Pause()
     {
+        pauseView.SetActive(true);
         if (!ended)
         {
             if (Time.timeScale == 0)
